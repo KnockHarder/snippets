@@ -4,3 +4,4 @@
 4. csv: csv 文件
 5. openpyxl: excel 文件
 6. inspect: 查看 python 对象信息
+7. pycookiecheat: 从浏览器中获取 cookie 信息
